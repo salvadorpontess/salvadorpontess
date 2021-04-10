@@ -8,7 +8,5 @@
 
 ## studying 
 
-<img src="html.png">
 
-<img src="css.png">
 

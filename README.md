@@ -10,6 +10,5 @@
 
 <img src="html.png">
 
-<img src="css.png>
-
+<img src="css.png">
 

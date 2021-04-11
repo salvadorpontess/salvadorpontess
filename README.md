@@ -6,9 +6,3 @@
 
 # contact Azul#6011/Discord
 
-## studying 
-
-<img src="html,css,js.png">
-
-
-

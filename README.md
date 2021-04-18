@@ -10,7 +10,7 @@
 
 <h3>Front-end🎨</h3>
 
-<img src="html.png" width="5%"><img src="javascript.png" width="5%"><img src="css.png" width="5%">
+<img src="html.png" width="5%"> <img src="css.png" width="5%"><img src="javascript.png" width="4">
 
 
 

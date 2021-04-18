@@ -10,7 +10,9 @@
 
 <h3>Front-end🎨</h3>
 
-<h3>Discord/Azul#7278</h3>
+<img src="html.png">
+<img src="javascript.png">
+<img src="css.png">
 
 
 

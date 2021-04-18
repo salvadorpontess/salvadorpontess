@@ -11,6 +11,7 @@
 <h3>Front-end🎨</h3>
 
 <h3>Linguagens que eu amo :D</h3>
+
 <img src="html.png" width="5%"><img src="css.png" width="5%"><img src="javascript.png" width="4%">
 
   <h3>Comunidade que eu recomendo :D <a href="https://discord.gg/y7Xvtk9N3y">The coders</a></h3>

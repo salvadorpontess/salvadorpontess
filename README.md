@@ -12,6 +12,7 @@
 
 <h3>Linguagens que eu amo :D</h3>
 
+<img src="html,css, js.png" width="5%">
 
   <h3>Comunidade que eu recomendo :D <a href="https://discord.gg/y7Xvtk9N3y">The coders</a></h3>
 

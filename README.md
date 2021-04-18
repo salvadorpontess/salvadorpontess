@@ -14,5 +14,4 @@
 
 <img src="html,css, js.png" width="15%">
 
-  <h3>Comunidade que eu recomendo :D <a href="https://discord.gg/y7Xvtk9N3y">The coders</a></h3>
   

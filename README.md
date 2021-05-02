@@ -9,5 +9,5 @@
   
   <h2>Linguagens e ferramentas</h2>
   
-  <img src="https://image.flaticon.com/icons/png/512/732/732212.png">
+  <img src="https://image.flaticon.com/icons/png/512/732/732212.png" width="5%">
  

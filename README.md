@@ -9,4 +9,4 @@
   
   <h2>Linguagens e ferramentas</h2>
   
-  <img src="https://i.imgur.com/GlaJP8v.png" width="5%"> <img src="https://i.imgur.com/DcUMqa1.png" width="5%"> <img src="https://i.imgur.com/VANqrrh.png" width="5%"> <img src="https://i.imgur.com/HTrhgl5.png" width="5%">
+  <img src="https://i.imgur.com/GlaJP8v.png" width="5%"> <img src="https://i.imgur.com/DcUMqa1.png" width="5%"> <img src="https://i.imgur.com/VANqrrh.png" width="5%"> <img src="https://i.imgur.com/HTrhgl5.png" width="5%"> <img src="https://i.imgur.com/4H6WfZ8.png" width="5%">

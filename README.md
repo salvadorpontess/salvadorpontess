@@ -12,5 +12,5 @@
   <img src="https://i.imgur.com/GlaJP8v.png" width="5%"> <img src="https://i.imgur.com/DcUMqa1.png" width="5%"> <img src="https://i.imgur.com/VANqrrh.png" width="5%"> <img src="https://i.imgur.com/HTrhgl5.png" width="5%"> <img src="https://i.imgur.com/4H6WfZ8.png" width="5%">
 
 <footer>
-  <h2>Salvador Pontes Soares</h2>
+  <h3>Salvador Pontes Soares</h3>
 </footer>

@@ -9,5 +9,5 @@
   
   <h2>Linguagens e ferramentas</h2>
   
-  <img src="https://imgur.com/GlaJP8v" width="5%"> <img src="https://imgur.com/DcUMqa1" width="5%">
+  <img src="https://i.imgur.com/DcUMqa1.png" width="5%"> <img src="https://i.imgur.com/DcUMqa1.png" width="5%">
  
